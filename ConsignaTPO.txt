@@ -1,0 +1,17 @@
+EJERCICIOS TPO
+1. Modificación a los TDAs
+A. Pila dinámica con capacidad limitada. Debe recibir la capacidad máxima por constructor.
+B. Superconjunto (o conjunto universal). A parte de las operaciones de un conjunto normal,
+debe contar con un método que reciba una instancia del Set y devuelva true si es
+subconjunto. Debe contar con un segundo método que permite calcular el conjunto
+complemento del recibido por parámetro. Debe ser precondición que no se puede calcular
+el complemento de un conjunto que no es subconjunto del superconjunto.
+C. Cola dinámica cíclica doblemente enlazada. Los métodos que posee deben usar esta
+propiedad para disminuir la complejidad computacional.
+D. Conjunto con repetidos. Es un conjunto de duplas, donde cada elemento tiene asociada una
+cantidad.
+E. Grafo aleatorio: Cada arista en lugar de tener un peso tiene asociada una probabilidad.
+2. Grafos
+ Desarrollar una función que reciba un grafo dirigido, y devuelva un conjunto de
+grafos dirigidos tales que, cada uno de estos grafos, es fuertemente conexo.
+Explique que sucede si el grafo de entrada no es dirigido.
