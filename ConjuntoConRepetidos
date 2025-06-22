@@ -1,5 +1,5 @@
 package implementacionesTDA;
-import interfaz.ConjuntoRepetidosTDA;
+import interfaces.ConjuntoRepetidosTDA;
 import auxiliares.Nodo;
 
 
