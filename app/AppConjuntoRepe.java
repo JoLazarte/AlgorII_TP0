@@ -1,6 +1,8 @@
-package ImplementacionesTDA;
+package app;
 
-public class Main {
+import implementacionesTDA.ConjuntoConRepetidos;
+
+public class AppConjuntoRepe {
     public static void main(String[] args) {
         ConjuntoConRepetidos conjunto = new ConjuntoConRepetidos();
         conjunto.inicializar();

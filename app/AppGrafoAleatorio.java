@@ -1,7 +1,8 @@
+package app;
 
-import implementaciones.GrafoAleatorio;
+import implementacionesTDA.GrafoAleatorio;
 
-public class Main {
+public class AppGrafoAleatorio {
     public static void main(String[] args) {
         GrafoAleatorio grafo = new GrafoAleatorio();
         grafo.inicializarGrafo(5); // vértices 0 al 4

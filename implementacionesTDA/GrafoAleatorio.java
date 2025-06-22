@@ -1,4 +1,4 @@
-package implementaciones;
+package implementacionesTDA;
 import auxiliares.Arista;
 import interfaces.GrafoAleatorioTDA;
 
