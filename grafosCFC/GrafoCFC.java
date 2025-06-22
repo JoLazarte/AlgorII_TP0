@@ -1,4 +1,4 @@
-package grafos;
+package grafosCFC;
 public class GrafoCFC {
 
     // Encuentra todas las componentes fuertemente conexas

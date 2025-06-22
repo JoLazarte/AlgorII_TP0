@@ -1,7 +1,7 @@
 package app;
 import java.util.*;
 
-import grafos.GrafoCFC;
+import grafosCFC.GrafoCFC;
 
 public class AppGrafoCFC {
     public static void main(String[] args) {
