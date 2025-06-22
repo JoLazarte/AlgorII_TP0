@@ -7,7 +7,6 @@ public class SuperConjuntoImpl implements ConjuntoTDA {
 
     private Nodo primero;
 
-
     @Override
     public void inicializarConjunto() {
         primero = null;
