@@ -1,0 +1,8 @@
+package interfaces;
+
+public interface ConjuntoRepetidosTDA {
+    void inicializar();
+    void agregar(int x);
+    void mostrar();
+    void eliminar(int x);
+}
